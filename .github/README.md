@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<a href="https://t.me/The_blackhat_hackers"><img src="https://img.shields.io/badge/-☆𝗗𝗠 𝗧𝗢 𝗥𝗢𝗛𝗔𝗡 𝗥𝗢𝗬%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Username_yad_nahi"><img src="https://img.shields.io/badge/-☆𝗗𝗠 𝗧𝗢 𝗥𝗢𝗛𝗔𝗡 𝗥𝗢𝗬%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
 
