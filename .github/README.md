@@ -1,34 +1,49 @@
-a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ℝ𝕆ℍ𝔸ℕ&height=100&section=header"/> 
- </p> 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+━━━━━━━━━━━━━━━━━━
+<p align="center">
+🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=WELCOME+TO+MY+PROFILE&width=600&height=180" style="font-size: smaller;">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-
-![Murali](https://media.giphy.com/media/iuMqhDxbEpekk31eQN/giphy.gif)
-
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshan7676&show_icons=true&theme=radical)
+<!--
+**THE-VIP-BOY-OP/THE-VIP-BOY-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-     <img align="middle" src="https://profile-counter.glitch.me/sudarshan7676/count.svg" />
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/sudarshan7676/count.svg" />
 </p>
 
 
+
+
+<h2 align="center">
+    ─「 𝗥𝗢𝗛𝗔𝗡 𝗠𝗨𝗦𝗜𝗖 」─
+
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ROHAN+ROY+🎭">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Readme Card](https://github-stats-alpha.vercel.app/api?username=sudarshan7676)
+
+[![GIF](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/main/THE-VIP-BOY-OP.gif)](https://github.com/THE-VIP-BOY-OP)
+   [![ROHAN ROY](https://github-stats-alpha.vercel.app/api?username=sudarshan7676 "THE_VIP_BOY")](https://github-stats-alpha.vercel.app/api?username=sudarshan7676 "ROHAN ROY")
+
+
 <p align="center">
-  <a href="https://t.me/sudarshan7676"><img src="https://te.legra.ph/file/8a552f795414972ea1ba9.jpg"></a>
-    </p>
-<p align="center">
+  <img src="https://telegra.ph/file/bf41e40b64bd809edcbdd.jpg">
+</p>
+
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟abhi nahi banaya hai bad me bataunga
 
 
 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
+
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
